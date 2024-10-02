@@ -1,0 +1,1 @@
+# plugins-automatic-image-alt-attributes
